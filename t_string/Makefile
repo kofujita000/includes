@@ -6,7 +6,7 @@
 #    By: kofujita <kofujita@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/07/17 20:29:24 by kofujita          #+#    #+#              #
-#    Updated: 2024/07/21 16:33:23 by kofujita         ###   ########.fr        #
+#    Updated: 2024/08/19 19:31:59 by kofujita         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -87,3 +87,4 @@ re : fclean all
 install : all
 	@$(CP) $(NAME) $(INSTALL_DIR)/lib
 	@$(CP) t_string.h $(INSTALL_DIR)/include
+
