@@ -1,3 +1,7 @@
 [submodule "t_string"]
 	path = t_string
 	url = git@github.com:kofujita000/t_string.git
+
+[submodule "t_file"]
+	path = t_file
+	url = git@github.com:kofujita000/t_file.git
