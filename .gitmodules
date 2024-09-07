@@ -9,3 +9,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:kofujita000/ft_printf.git
+[submodule "ft_std"]
+	path = ft_std
+	url = https://github.com/kofujita000/ft_std.git
