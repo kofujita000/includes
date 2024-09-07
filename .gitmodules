@@ -1,14 +1,14 @@
 [submodule "t_string"]
 	path = t_string
-	url = git@github.com:kofujita000/t_string.git
+	url = https://github.com/kofujita000/t_string.git
 
 [submodule "t_file"]
 	path = t_file
-	url = git@github.com:kofujita000/t_file.git
+	url = https://github.com/kofujita000/t_file.git
 
 [submodule "ft_printf"]
 	path = ft_printf
-	url = git@github.com:kofujita000/ft_printf.git
+	url = https://github.com/kofujita000/ft_printf.git
 [submodule "ft_std"]
 	path = ft_std
 	url = https://github.com/kofujita000/ft_std.git
